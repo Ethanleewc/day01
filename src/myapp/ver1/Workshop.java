@@ -27,7 +27,7 @@ public class Workshop {
         
             // Integer value = Integer.parseInt(input);
             // total = total + value
-            total += Integer.parseInt(input);
+             total = total + Integer.parseInt(input);
         } 
       
         System.out.printf("The total of adding %d number %d\n", count, total);
